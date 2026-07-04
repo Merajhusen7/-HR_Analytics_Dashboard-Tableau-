@@ -1,6 +1,6 @@
 # HR Analytics Dashboard (Tableau)
 
-An interactive Tableau dashboard that analyzes employee attrition across departments, age groups, gender, education background, and job roles — built to help HR teams spot where and why employees are leaving, and to support faster, data-driven retention decisions.
+An interactive Tableau dashboard that analyzes employee attrition across departments, age groups, gender, education background, and job roles built to help HR teams spot where and why employees are leaving, and to support faster, data-driven retention decisions.
 
 ## Dashboard Preview
 
